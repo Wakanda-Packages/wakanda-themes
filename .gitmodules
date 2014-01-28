@@ -1,3 +1,6 @@
 [submodule "wakanda_corporate"]
 	path = wakanda_corporate
 	url = https://github.com/omobili/wakanda_corporate.git
+[submodule "wakanda_mobile"]
+	path = wakanda_mobile
+	url = https://github.com/omobili/wakanda_mobile.git
