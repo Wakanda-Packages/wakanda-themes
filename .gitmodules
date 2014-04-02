@@ -4,3 +4,6 @@
 [submodule "wakanda_mobile"]
 	path = wakanda_mobile
 	url = https://github.com/omobili/wakanda_mobile.git
+[submodule "iOS7"]
+	path = iOS7
+	url = https://github.com/omobili/iOS7.git
