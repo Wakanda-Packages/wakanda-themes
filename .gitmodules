@@ -7,3 +7,6 @@
 [submodule "iOS7"]
 	path = iOS7
 	url = https://github.com/omobili/iOS7.git
+[submodule "simpleGreen"]
+	path = simpleGreen
+	url = https://github.com/omobili/simpleGreen.git
