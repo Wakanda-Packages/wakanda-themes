@@ -1,0 +1,12 @@
+[submodule "iOS7"]
+	path = iOS7
+	url = https://github.com/rmello4d/iOS7.git
+[submodule "simpleGreen"]
+	path = simpleGreen
+	url = https://github.com/rmello4d/simpleGreen.git
+[submodule "wakanda_corporate"]
+	path = wakanda_corporate
+	url = https://github.com/rmello4d/wakanda_corporate.git
+[submodule "wakanda_mobile"]
+	path = wakanda_mobile
+	url = https://github.com/rmello4d/wakanda_mobile.git
